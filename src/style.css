@@ -1,0 +1,9 @@
+.red{
+    color:rgb(185, 45, 45);
+}
+.title{
+    font-family: cursive;
+    text-decoration: underline;     
+    text-decoration-color: rgb(185, 45, 45); 
+
+}
